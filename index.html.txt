@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Mi Primera Página</title>
+  </head>
+  <body>
+    
+    <h1>¡Hola, este es mi primer sitio web!</h1>
+    
+    <p>Estoy aprendiendo a crear páginas web paso a paso desde cero. ¡Y esto ya está funcionando!</p>
+
+  </body>
+</html>
